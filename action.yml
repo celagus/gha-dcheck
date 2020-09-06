@@ -1,0 +1,9 @@
+name: Dependency-Check
+author: celagus
+description: 'Run Dependency-Check SCA scan'
+branding:
+  icon: 'check-square'
+  color: 'orange'
+runs:
+  using: 'docker'
+  image: './Dockerfile'
