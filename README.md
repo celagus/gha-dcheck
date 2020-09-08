@@ -1,8 +1,8 @@
-# gha-dcheck usage:
+## gha-dcheck usage:
 
-## 1.  Create a ".github/workflows/" directory in the root of your project repo.
+1.  Create a ".github/workflows/" directory in the root of your project repo.
 
-## 2.  Create a .yml file with a name (example: push.yml) and paste following content:
+2.  Create a .yml file with a name (example: push.yml) and paste following content:
 
 ```
 name: Run Dependency-Check
